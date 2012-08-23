@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
-	version 	= "1.0.0">
+	id		= "com.discopaarti.amazing"
+	version 	= "99.999">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Disco Paarti's Amazing App</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		A template for getting started with Disco Paarti's App
 	</description>
 
 	<author href="http://alunny.github.com"
